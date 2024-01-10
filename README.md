@@ -1,6 +1,8 @@
 # Heart Disease Prediction App
 
-A Heart disease prediction Web App to predict whether a person has heart disease or not.
+The project is developed utilizing Machine
+Learning with Logistic Regression. The application allows users to input relevant details
+related to their heart, and the model predicts whether the person has heart diseases or not.
 
 # Website Link
 You can access the web app from the link :
